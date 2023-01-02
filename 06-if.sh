@@ -9,6 +9,6 @@ fi
 x="abc"
 if [ $x=="abc" ]
 then
-  echo $x is equal
+  echo $x is equal to "abc"
 fi
 
