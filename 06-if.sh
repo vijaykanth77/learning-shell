@@ -1,5 +1,5 @@
 a=$1
-if [ $a -ne 10 ]
+if [ $a -le 10 ]
 then
   echo $a value is lessar than 10 or equal to 10
 else
