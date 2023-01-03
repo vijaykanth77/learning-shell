@@ -12,3 +12,9 @@ then
   echo $x is equal to "abc"
 fi
 
+file=/tmp/new
+if [ -f $file]
+then
+  else file exits
+fi
+
